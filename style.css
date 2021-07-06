@@ -1,0 +1,44 @@
+main {
+  background-color: rgba(212, 211, 211, 0.918);
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  padding: 2rem;
+}
+
+
+.img-div {
+  background-color: white;
+  width: 95%;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+img {
+  width: 20vw;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+.img-caption {
+  display: block;
+  /* text-align: center; */
+  display: block;
+  margin: auto;
+}
+
+.tribute-info {
+  width: 80%;
+  display: block;
+  margin: auto;
+
+  text-align: center;
+}
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+  padding: 1rem;
+}
